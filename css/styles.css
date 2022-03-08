@@ -1,0 +1,96 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+h1, h2, h3{
+  font-family: "Montserrat", sans-serif;
+}
+iframe{
+  margin: 0;
+}
+
+.container-fluid{
+  padding: auto 0;
+}
+/* TITLE */
+
+#title{
+  margin: 0;
+  background-color: black;
+  text-align: center;
+  padding: 30px 7%;
+  padding-bottom: 6%;
+
+}
+#my-navbar-brand{
+  font-size: 1.6rem;
+}
+
+.navbar-nav{
+  padding: 0;
+}
+.big-heading {
+  padding-top: 10%;
+  padding-bottom: 5%;
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 900;
+      font-size: 2.5rem;
+      line-height: 1.5;
+      color: white;
+}
+
+.question-title{
+  font-size: 25px;
+  padding: 10px;
+  padding-bottom: 10%;
+}
+
+.nav-link{
+  font-size: 1.5rem;
+}
+
+.btn{
+  margin: 10px 10px;
+  border-radius: 10px;
+
+}
+
+.video-div{
+  /* padding-bottom:56.25%; */
+  position:relative;
+  display:block;
+  padding: 0;
+  margin: 0;
+  border-right: 20px solid black;
+  border-left: 20px solid black;
+
+}
+.video{
+  padding: 5% 0;
+  position: relative;
+  top:0;
+  left: 0;
+    border-radius: 100px;
+}
+
+
+/* PRICING */
+#pricing{
+  margin: 5% 5%;
+  text-align: center;
+  line-height: 5rem;
+}
+
+.price-text{
+  font-family: "Montserrat";
+  font-weight:bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.pricing-column{
+  padding:3% 2%;
+}
+.card .card-body{
+  line-height: 1.5rem;
+}
